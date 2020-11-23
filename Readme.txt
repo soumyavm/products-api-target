@@ -1,5 +1,5 @@
-1. The first application myRetail has been chosen. The application has been developed in Sprint boot using Sprint boot initializr.
-2. The project can be unzipped and imported into any IDE and run.
+1. The first application myRetail has been chosen for the case study. The application has been developed in Sprint boot using Sprint boot initializr.
+2. The project products-api can be imported into any IDE and run.
 3. When the application starts it will automatically start tomcat at 8000 port.
 4. The application uses a local instance of MySQL running at 3306. The table name is 'pricelist'.
 5. Few screenshots have been attached which show the Postman request for Get and Put calls.
